@@ -1,4 +1,3 @@
 # Django-Rest-Framework-Blog-Api
 Django Rest Framework Blog Api
-gg
-sdsddssd
+<h1>sdasd</h1>
