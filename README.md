@@ -8,5 +8,7 @@ $ cd Django-Rest-Framework-Blog-Api
 $ python manage.py runserver
 ```
 
-## Screens
-
+## Screenshots
+![i1](screenshots/img.png)
+![i2](screenshots/img_1.png)
+![i3](screenshots/img_2.png)
